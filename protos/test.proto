@@ -1,0 +1,12 @@
+package protos;
+
+message CSGetuserReq {
+	required int32  uid     = 1; 
+}
+
+message CSGetuserRsp {
+	required  int32  uid    = 1;
+	required  string name   = 2;
+	required  int32  age    = 3;
+	required  string city   =4;
+}
