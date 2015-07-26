@@ -17,6 +17,6 @@ go run server.py
 then run client.go to test the server response
 
 
-3. if you need the python edition，take a look at my another repository
+3.if you need the python edition，take a look at my another repository
 
 pytcpsrv: https://github.com/aisondhs/pytcpsrv
