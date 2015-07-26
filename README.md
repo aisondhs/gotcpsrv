@@ -7,7 +7,6 @@ a tcp server with the protobuf format to data exchange
   protobuf: https://github.com/google/protobuf
   golang-protobuf: https://github.com/golang/protobuf
 
-
 2.run
   go run server.py
   then run client.go to test the server response
