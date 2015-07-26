@@ -9,7 +9,6 @@ import (
 	"log"
 	"net"
 )
-
 func main() {
 	tcpAddr, err := net.ResolveTCPAddr("tcp4", "127.0.0.1:8989")
 	checkError(err)

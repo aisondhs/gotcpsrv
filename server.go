@@ -15,7 +15,6 @@ import (
 	"github.com/aisondhs/alog"
 	"github.com/aisondhs/gotcpsrv/protocol"
 	"github.com/aisondhs/gotcpsrv/protos"
-	//"fmt"
 )
 
 type Callback struct{}
